@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1689661864,,"wq"
+|2,0,1689662591,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,23 +25,48 @@
 # Registers:
 
 # File marks:
-'0  6  6  ~/sample.html
-|4,48,6,6,1689661864,"~/sample.html"
+'0  4  42  ~/sample.html
+|4,48,4,42,1689662591,"~/sample.html"
+'1  1  0  ~/saple
+|4,49,1,0,1689662538,"~/saple"
+'2  6  6  ~/sample.html
+|4,50,6,6,1689661864,"~/sample.html"
+'3  6  6  ~/sample.html
+|4,51,6,6,1689661864,"~/sample.html"
 
 # Jumplist (newest first):
+-'  4  42  ~/sample.html
+|4,39,4,42,1689662591,"~/sample.html"
+-'  6  6  ~/sample.html
+|4,39,6,6,1689662553,"~/sample.html"
+-'  1  0  ~/saple
+|4,39,1,0,1689662538,"~/saple"
+-'  1  0  ~/saple
+|4,39,1,0,1689662538,"~/saple"
 -'  6  6  ~/sample.html
 |4,39,6,6,1689661864,"~/sample.html"
+-'  6  6  ~/sample.html
+|4,39,6,6,1689661864,"~/sample.html"
+-'  1  0  ~/sample.html
+|4,39,1,0,1689661718,"~/sample.html"
+-'  1  0  ~/sample.html
+|4,39,1,0,1689661718,"~/sample.html"
 -'  1  0  ~/sample.html
 |4,39,1,0,1689661718,"~/sample.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/sample.html
-	*	1689661862	0
-	"	6	6
-	^	6	7
-	.	4	24
+	*	1689662590	0
+	"	4	42
+	^	4	43
+	.	4	42
 	+	1	6
 	+	6	0
 	+	5	0
-	+	4	24
+	+	4	42
+
+> ~/saple
+	*	1689662537	0
+	"	1	0
+	^	1	0
